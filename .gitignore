@@ -1,0 +1,33 @@
+# dependencies and build output
+/node_modules
+/.next
+/out
+next-env.d.ts
+*.tsbuildinfo
+
+# local environment (see .env.example)
+.env
+.env*.local
+
+# generated QA screenshots (npm run shots / a11y / compare)
+design/shots
+
+# Blender auto-backups and Python caches
+*.blend1
+__pycache__/
+
+# Third-party reference material: kept locally, not redistributed.
+# (Film posters, other brands' product photos, screenshots of other sites, raw stock photos.
+# The site uses only processed, licence-compatible derivatives in public/.)
+design/references/*.jpg
+design/references/market/
+design/references/mascot/
+design/references/field/
+
+# local tooling
+.claude/
+tools/_*.mjs
+
+# OS
+.DS_Store
+Thumbs.db

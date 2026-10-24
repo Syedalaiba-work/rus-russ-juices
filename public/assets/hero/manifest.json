@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "cup": {
+    "model": null
+  },
+  "liquid": {
+    "normal": null
+  },
+  "ice": {
+    "model": null
+  },
+  "fruit": {
+    "blueberry": null,
+    "strawberry": null,
+    "mango": null,
+    "slice": null
+  },
+  "splash": {
+    "model": null,
+    "sprites": {
+      "berry-blast": null,
+      "blue-rush": null,
+      "mango-madness": null,
+      "tropical-mix": null
+    }
+  },
+  "rabbit": {
+    "model": null,
+    "image": null,
+    "poses": {
+      "berry-blast": null,
+      "blue-rush": null,
+      "mango-madness": null,
+      "tropical-mix": null
+    }
+  },
+  "hoodie": {
+    "print": null
+  },
+  "wordmark": {
+    "black": "wordmark/wordmark-black.png",
+    "white": "wordmark/wordmark-white.png",
+    "cup": "wordmark/lockup-black.png"
+  },
+  "stills": {
+    "berry-blast": "stills/berry-blast.webp",
+    "blue-rush": "stills/blue-rush.webp",
+    "mango-madness": "stills/mango-madness.webp",
+    "tropical-mix": "stills/tropical-mix.webp"
+  },
+  "cards": {
+    "berry-blast": "cards/berry-blast.webp",
+    "blue-rush": "cards/blue-rush.webp",
+    "mango-madness": "cards/mango-madness.webp",
+    "tropical-mix": "cards/tropical-mix.webp"
+  },
+  "layers": {
+    "berry-blast": {
+      "cup": "layers/berry-blast/3-cup.webp",
+      "hero": "layers/berry-blast/4-hero.webp"
+    },
+    "blue-rush": {
+      "cup": "layers/blue-rush/3-cup.webp",
+      "hero": "layers/blue-rush/4-hero.webp"
+    },
+    "mango-madness": {
+      "cup": "layers/mango-madness/3-cup.webp",
+      "hero": "layers/mango-madness/4-hero.webp"
+    },
+    "tropical-mix": {
+      "cup": "layers/tropical-mix/3-cup.webp",
+      "hero": "layers/tropical-mix/4-hero.webp"
+    }
+  },
+  "drinks": {
+    "berry-blast": "drinks/berry-blast.webp",
+    "blue-rush": "drinks/blue-rush.webp",
+    "mango-madness": "drinks/mango-madness.webp",
+    "tropical-mix": "drinks/tropical-mix.webp"
+  },
+  "rev": "6070e44819"
+}
